@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdessamad Ait-bella
+=====================================================================================================================================
 
 Junior Web Developer Full-Stack
+-------------------------------
 
 <ul>
   <li>👋 Hi, I’m @Abde-Ait-bella</li>
@@ -8,6 +10,8 @@ Junior Web Developer Full-Stack
   <li>💞️ I’m looking to collaborate on backend and front-end projects</li>
   <li>📫 Contact me at: abdessamadaitbella1998@gmail.com</li>
 </ul>
+
+### Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
