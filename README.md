@@ -11,7 +11,7 @@ Junior Web Developer Full-Stack
   <li>📫 Contact me at: abdessamadaitbella1998@gmail.com</li>
 </ul>
 
-### Skills
+### Skills :
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
